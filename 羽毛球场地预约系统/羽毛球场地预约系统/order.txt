@@ -1,0 +1,6 @@
+date:2 interval:3 stuId:1 stuName:clw courtId:2 status:0
+date:4 interval:2 stuId:1 stuName:ccc courtId:4 status:0
+date:1 interval:3 stuId:1 stuName:sss courtId:6 status:0
+date:3 interval:4 stuId:1 stuName:ada courtId:8 status:-1
+date:5 interval:2 stuId:1 stuName:clw courtId:8 status:2
+date:6 interval:5 stuId:1 stuName:clw courtId:8 status:1 

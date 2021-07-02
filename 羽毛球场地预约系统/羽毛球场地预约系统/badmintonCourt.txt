@@ -1,0 +1,11 @@
+1 woodland
+2 woodland
+3 woodland
+4 woodland
+5 woodland
+6 rubberFloor
+7 rubberFloor
+8 rubberFloor
+9 rubberFloor
+
+
